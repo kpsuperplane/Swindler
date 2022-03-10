@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.platform      = :osx, '10.10'
   s.swift_version = '5.0'
 
-  s.source       = { git: 'https://github.com/tmandry/Swindler.git', tag: s.version.to_s }
+  s.source       = { git: 'https://github.com/kpsuperplane/Swindler.git', tag: s.version.to_s }
 
   s.source_files = 'Sources', 'Sources/**/*.{h,swift}'
 
