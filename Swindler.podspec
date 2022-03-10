@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'Swindler'
+  s.name         = 'Swindler kpsuperplane'
   s.version      = '0.0.5'
   s.summary      = 'macOS window management framework, written in Swift'
 
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
     promise-based API on top of the low-level accessibility APIs.
                    DESC
 
-  s.homepage          = 'https://github.com/tmandry/Swindler'
+  s.homepage          = 'https://github.com/kpsuperplane/Swindler'
   s.documentation_url = "https://tmandry.github.io/Swindler/docs/#{s.version.to_s}"
 
   s.license      = { type: 'MIT', file: 'LICENSE' }
